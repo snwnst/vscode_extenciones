@@ -1,13 +1,13 @@
 # vscode_extenciones
-Activitus Bar
-Bracket Pair Colorizer 2
-Indent-Rainbow
-Material Icon Theme
-Music Time for Spotify
-Monokai Pro for Visual Studio Code
+- Activitus Bar
+- Bracket Pair Colorizer 2
+- Indent-Rainbow
+- Material Icon Theme
+- Music Time for Spotify
+- Monokai Pro for Visual Studio Code
 
 
-ohmyzsh
+# ohmyzsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 git clone https://github.com/powerline/fonts.git --depth=1
 
