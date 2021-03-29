@@ -7,4 +7,4 @@ Music Time for Spotify
 Monokai Pro for Visual Studio Code
 
 
-ohmybash
+ohmyzsh
