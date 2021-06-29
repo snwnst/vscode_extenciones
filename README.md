@@ -26,3 +26,5 @@ chmod 755 /usr/local/share/zsh/site-functions
 
 # Fonts
 - FiraCode
+
+https://github.com/romkatv/powerlevel10k
